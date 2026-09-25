@@ -10,22 +10,13 @@ This project serves as a showcase of 3D game development mechanics within Unity,
 - **Scoring System:** Precision-based gameplay focusing on maneuvering through rings.
 - **User Interface:** Intuitive main menu, pause overlay, and post-game screens.
 
-## Visual Assets
+### Gameplay Demonstration
 
-### Gameplay & Characters
+Experience the flight mechanics and gameplay loop in action:
 
-| Phoenix Character | Game Over Screen |
-|:---:|:---:|
-| ![Phoenix Character](Assets/_Assets%20Button/Phoenix%20M.png) | ![Game Over](Assets/_Assets%20Button/Game%20Over.png) |
+<video src="https://github.com/Yogiexc/PhoenixTerbang-Unity/raw/main/Assets/_Assets%20Button/Permintaan_Video_Burung_Terbang.mp4" controls="controls" muted="muted" style="max-height:640px;"></video>
 
-| Pause Menu | UI Component |
-|:---:|:---:|
-| ![Pause Screen](Assets/_Assets%20Button/Img%20Pause.png) | ![UI Button](Assets/_Assets%20Button/PilihC.png) |
-
-### Video Demonstration
-
-A demonstration of the flight mechanics and gameplay loop is available below:
-> [Flight Gameplay Demonstration (MP4)](Assets/_Assets%20Button/Permintaan_Video_Burung_Terbang.mp4)
+*(If the video does not load, you can download it directly [here](Assets/_Assets%20Button/Permintaan_Video_Burung_Terbang.mp4))*
 
 ## Getting Started
 
