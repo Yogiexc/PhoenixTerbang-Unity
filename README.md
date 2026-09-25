@@ -1,50 +1,52 @@
-# 🦅 Phoenix Terbang 
+# Phoenix Terbang
 
-Welcome to **Phoenix Terbang**, an exhilarating flight simulation game built with Unity! Take control of a majestic Phoenix, soar through stunning skies, and conquer challenging rings in the air!
+**Phoenix Terbang** is a 3D flight simulation game developed using the Unity Engine. Players control a Phoenix navigating through dynamic environments, aiming to fly through suspended rings while avoiding obstacles to achieve high scores.
 
-## 🎮 Gameplay Preview
+## Project Overview
 
-![Phoenix H](Assets/_Assets%20Button/Phoenix%20H.png)
+This project serves as a showcase of 3D game development mechanics within Unity, featuring:
+- **Flight Mechanics:** Smooth and responsive aerodynamic controls for the Phoenix character.
+- **Environment Design:** Detailed aerial landscapes and island terrains.
+- **Scoring System:** Precision-based gameplay focusing on maneuvering through rings.
+- **User Interface:** Intuitive main menu, pause overlay, and post-game screens.
 
-## ✨ Features
-- **Majestic Phoenix Flight:** Experience smooth and dynamic flight mechanics.
-- **Breathtaking Environments:** Soar through beautiful islands and breathtaking skies.
-- **Challenging Obstacles:** Fly through rings and maneuver around obstacles to score points.
-- **Stunning UI/UX:** Clean and intuitive menus, pause screen, and game-over screens.
+## Visual Assets
 
-## 🚀 Getting Started
+### Gameplay & Characters
+
+| Phoenix Character | Game Over Screen |
+|:---:|:---:|
+| ![Phoenix Character](Assets/_Assets%20Button/Phoenix%20M.png) | ![Game Over](Assets/_Assets%20Button/Game%20Over.png) |
+
+| Pause Menu | UI Component |
+|:---:|:---:|
+| ![Pause Screen](Assets/_Assets%20Button/Img%20Pause.png) | ![UI Button](Assets/_Assets%20Button/PilihC.png) |
+
+### Video Demonstration
+
+A demonstration of the flight mechanics and gameplay loop is available below:
+> [Flight Gameplay Demonstration (MP4)](Assets/_Assets%20Button/Permintaan_Video_Burung_Terbang.mp4)
+
+## Getting Started
 
 ### Prerequisites
-- [Unity](https://unity.com/) 
-- Git
+- [Unity Editor](https://unity.com/) (Version 2022.3 LTS or newer recommended)
+- Git version control
 
-### Installation
-1. Clone the repository:
+### Installation Instructions
+1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Yogiexc/PhoenixTerbang-Unity.git
    ```
-2. Open **Unity Hub** and click on **Add project from disk**.
-3. Select the cloned folder.
-4. Open the main scene located in `Assets/Scenes/` and hit **Play**!
+2. Launch **Unity Hub** and select **Add project from disk**.
+3. Navigate to and select the cloned repository folder.
+4. Open the main game scene located in `Assets/Scenes/` and press **Play** to test the game in the editor.
 
-## 📸 Screenshots & Assets
-
-| Character/Main | Game Over Screen |
-|:---:|:---:|
-| ![Phoenix M](Assets/_Assets%20Button/Phoenix%20M.png) | ![Game Over](Assets/_Assets%20Button/Game%20Over.png) |
-
-| Pause Menu | UI Assets |
-|:---:|:---:|
-| ![Pause](Assets/_Assets%20Button/Img%20Pause.png) | ![Pilih](Assets/_Assets%20Button/PilihC.png) |
-
-## 🎥 Video Demo
-Check out the flight mechanics in the video below! 
-> [Flight Video Demo (MP4)](Assets/_Assets%20Button/Permintaan_Video_Burung_Terbang.mp4)
-
-## 🛠️ Built With
-- **Engine:** Unity
-- **Scripting:** C#
-- **Assets:** Custom 3D Models & Free Island Collection
+## Technical Specifications
+- **Game Engine:** Unity
+- **Programming Language:** C#
+- **Render Pipeline:** Universal Render Pipeline (URP) / Built-in Render Pipeline
+- **Assets:** Custom 3D character models and environments
 
 ---
-*Created by Yogiexc & Bryan*
+*Developed by Yogiexc & Bryan*
