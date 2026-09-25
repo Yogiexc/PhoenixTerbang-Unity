@@ -14,9 +14,7 @@ This project serves as a showcase of 3D game development mechanics within Unity,
 
 Experience the flight mechanics and gameplay loop in action:
 
-https://github.com/Yogiexc/PhoenixTerbang-Unity/blob/main/Assets/_Assets%20Button/Permintaan_Video_Burung_Terbang.mp4
-
-*(Click the link above to view the gameplay video)*
+[📥 Click here to watch / download the Gameplay Video](https://raw.githubusercontent.com/Yogiexc/PhoenixTerbang-Unity/main/Assets/_Assets%20Button/Permintaan_Video_Burung_Terbang.mp4)
 
 ## Getting Started
 
